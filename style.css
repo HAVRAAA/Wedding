@@ -397,7 +397,7 @@ main {
 .photo-note {
   background-image:
     linear-gradient(rgba(255, 251, 249, 0.12), rgba(255, 251, 249, 0.12)),
-    url("/Users/Maksym/Downloads/oksana10new.jpg");
+    url("assets/oksana10new.jpg");
 }
 
 .ornament-card {
