@@ -44,6 +44,7 @@ const guestMap = {
   AGPXRD602: "Мар'ян та Вікторія",
   BHVQTL184: "Володимир та Мар'яна",
   CKWJMF937: "Володимир та Стефанія",
+  EVSGKY214: "Євгенія та Сергій",
 };
 
 const params = new URLSearchParams(window.location.search);
